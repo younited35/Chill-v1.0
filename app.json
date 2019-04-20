@@ -4,7 +4,7 @@
     "description": "",
     "slug": "chill-v1.0",
     "privacy": "public",
-    "sdkVersion": "1.0",
+    "sdkVersion": "32.0.0",
     "platforms": [
       "ios",
       "android"
