@@ -5,8 +5,6 @@
 
 ---
 
-![Chill-v1.0](./resources/demo.png)
-
 ## APIs
 
 - [TMDb](https://developers.themoviedb.org/3/getting-started/introduction)
